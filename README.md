@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="nexus.png" width="100"> 
+  <img src="LOGO-1-removebg-preview.png" width="150"> 
+  <img src="Light Blue Sci-Fi Futuristic Animated Logo (1).gif" width="100">
+</p>
+
 # SVNIT_CTF_S1_CHELLENGES
 security is not a set of products – it's a set of practices
 
@@ -19,7 +25,6 @@ This CTF is a **fun and interactive cybersecurity challenge** that integrates ga
 4. **Submit Your Flag**: Once you find the final flag, submit it to the challenge host.
 
 ## 🛠 Tools You May Need
-- Decoder: [CyberChef](https://gchq.github.io/CyberChef/)
 - Hashing Tools: [Hash Analyzer](https://md5hashing.net/)
 - Web Inspector / Developer Tools
 
