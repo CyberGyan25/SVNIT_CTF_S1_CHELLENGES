@@ -5,7 +5,7 @@
   <img src="LOGO-1-removebg-preview.png" width="100">
 </p>
 <p align="right">
-  <img src="Light Blue Sci-Fi Futuristic Animated Logo (1).gif">
+  <img src="Light Blue Sci-Fi Futuristic Animated Logo (1).gif" width="100">
 </p>
 
 
