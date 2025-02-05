@@ -1,6 +1,6 @@
 <p>
   <img src="nexus.png" width="100" align="left">
-  <img src="LOGO-1-removebg-preview.png" width="100" align="centar">
+  <img src="LOGO-1-removebg-preview.png" width="100" align="center">
   <img src="Light Blue Sci-Fi Futuristic Animated Logo (1).gif" width="100" align="right">
 </p>
 
