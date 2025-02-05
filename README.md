@@ -41,4 +41,4 @@ This CTF is a **fun and interactive cybersecurity challenge** that integrates ga
 
 Good luck, and happy hacking! 🎮🔓
 
-                                                                                                                      👨‍💻 Developed by Yash Makwana(M.Tech 2nd Year)
+                            👨‍💻 Developed by Yash Makwana(M.Tech 2nd Year)
