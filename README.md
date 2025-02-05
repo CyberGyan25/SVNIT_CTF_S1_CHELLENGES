@@ -1,17 +1,7 @@
-<p align="center">
-  <img src="nexus.png" width="100">
-</p>
-<p align="center">
-  <img src="LOGO-1-removebg-preview.png" width="100">
-</p>
-<p align="center">
-  <img src="Light Blue Sci-Fi Futuristic Animated Logo (1).gif" width="100">
-</p>
-
-<p align="center">
-  <img src="nexus.png" width="100">
-  <img src="LOGO-1-removebg-preview.png" width="100">
-  <img src="Light Blue Sci-Fi Futuristic Animated Logo (1).gif" width="100">
+<p>
+  <img src="nexus.png" width="100" align="right">
+  <img src="LOGO-1-removebg-preview.png" width="100" align="center">
+  <img src="Light Blue Sci-Fi Futuristic Animated Logo (1).gif" width="100" align="left">
 </p>
 
 
