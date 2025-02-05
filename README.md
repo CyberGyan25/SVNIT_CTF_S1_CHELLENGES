@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="nexus.png" width="100"><br>
-  <img src="LOGO-1-removebg-preview.png" width="100"><br>
+  <img src="nexus.png" width="100">
+  <img src="LOGO-1-removebg-preview.png" width="100">
   <img src="Light Blue Sci-Fi Futuristic Animated Logo (1).gif" width="100">
 </p>
 
