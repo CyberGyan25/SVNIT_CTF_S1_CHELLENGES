@@ -1,11 +1,11 @@
 <p align="left">
   <img src="nexus.png" width="100">
 </p>
-<p align="right">
+<p align="center">
   <img src="LOGO-1-removebg-preview.png" width="100">
 </p>
-<p align="center">
-  <img src="Light Blue Sci-Fi Futuristic Animated Logo (1).gif" width="100">
+<p align="right">
+  <img src="Light Blue Sci-Fi Futuristic Animated Logo (1).gif">
 </p>
 
 
