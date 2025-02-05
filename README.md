@@ -1,6 +1,7 @@
 <p>
-  <img src="nexus.png" width="100" align="left"><br/>
-  <img src="Light Blue Sci-Fi Futuristic Animated Logo (1).gif" width="100" align="left">
+  <img src="nexus.png" width="100" align="left"><br>
+  <img src="LOGO-1-removebg-preview.png" width="100"><br>
+  <img src="Light Blue Sci-Fi Futuristic Animated Logo (1).gif" width="100" align="right">
 </p>
 
 
