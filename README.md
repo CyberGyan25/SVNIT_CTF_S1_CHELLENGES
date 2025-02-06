@@ -1,5 +1,5 @@
 <p>
-  <img src="logo/nexus.png" width="100" align="left">
+  <img src="logo/LOGO-1-removebg-preview.png" width="100" align="left">
   <img src="logo/Light Blue Sci-Fi Futuristic Animated Logo (1).gif" width="100" align="right">
 </p>
 
