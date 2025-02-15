@@ -30,7 +30,7 @@ This CTF is a **fun and interactive cybersecurity challenge** that integrates ga
 - Web Inspector / Developer Tools
 
 ## 🎯 Rules
-- No brute-forcing.
+- No brute-forcing on the website.
 - Do not modify the game files.
 - Sharing answers is **not allowed**.
 - Have fun and learn something new! 🚀
