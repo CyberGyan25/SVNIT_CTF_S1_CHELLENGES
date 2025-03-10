@@ -11,12 +11,12 @@ Welcome to the **Capture The Flag (CTF) Challenge!** 🚀
 Test your cybersecurity skills by navigating through the Challenge, avoiding traps, and uncovering hidden clues. Can you decrypt the final flag?
 
 ## 👨‍💻 Challenges & Categories: 
-🔹 **Web Exploitation** – Test vulnerabilities in web applications. /n
-🔹 **Cryptography** – Crack encoded messages and encrypted data. /n
-🔹 **Forensics** – Analyze digital artifacts and recover data.
-🔹 **Reverse Engineering** – Decompile and understand programs.
-🔹 **OSINT** – Find hidden information using open-source intelligence.
-🔹 **Miscellaneous** – Fun and tricky cybersecurity puzzles!
+-🔹 **Web Exploitation** – Test vulnerabilities in web applications. /n
+-🔹 **Cryptography** – Crack encoded messages and encrypted data. /n
+-🔹 **Forensics** – Analyze digital artifacts and recover data.
+-🔹 **Reverse Engineering** – Decompile and understand programs.
+-🔹 **OSINT** – Find hidden information using open-source intelligence.
+-🔹 **Miscellaneous** – Fun and tricky cybersecurity puzzles!
 
 ## Infrastructure & Setup:
 🔸 **Pre-configured Machines Provided**: The organizing team will provide:
