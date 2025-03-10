@@ -18,10 +18,10 @@ Test your cybersecurity skills by navigating through the Challenge, avoiding tra
 - **OSINT** – Find hidden information using open-source intelligence.
 - **Miscellaneous** – Fun and tricky cybersecurity puzzles!
 
-## 🔧 Infrastructure & Setup:
--  **Pre-configured Machines Provided**: The organizing team will provide:
-        - **Kali Linux** – Pre-installed with hacking tools for solving challenges.
-        - **Ubuntu Machine** – A challenge where participants must bypass login credentials to retrieve the flag.
+## 🔧 Infrastructure & Setup
+- **Pre-configured Machines Provided**: The organizing team will provide:  
+   - **Kali Linux** – Pre-installed with hacking tools for solving challenges.  
+   - **Ubuntu Machine** – A challenge where participants must bypass login credentials to retrieve the flag.  
 
 - **Networking & Access**: Secure local/remote access to challenge machines.
 - **Online Platform**:  CTFd custom platform].
