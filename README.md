@@ -15,8 +15,6 @@ Test your cybersecurity skills by navigating through the game, avoiding traps, a
 ## 🔥 Challenge Overview
 This CTF is a **fun and interactive cybersecurity challenge** that integrates gaming with cryptography. Your task is to find hidden clues, solve puzzles, and decrypt flags using **Hashing Tools and other techniques**.
 
-### 🌍 Play the Game
-👉 [Play Space Shooting Game](https://cybergyan25.github.io/SpaceShooting-Game/)
 
 ## 🕵️ How to Participate
 1. **Start the Game**: Play the Space Shooting Game and explore its different stages.
