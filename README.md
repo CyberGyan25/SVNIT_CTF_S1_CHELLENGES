@@ -7,36 +7,29 @@
 # SVNIT_CTF_S1_CHELLENGES
 security is not a set of products – it's a set of practices
 
-# Space Shooting Game - CTF Challenge
-
 Welcome to the **Capture The Flag (CTF) Challenge!** 🚀
-Test your cybersecurity skills by navigating through the game, avoiding traps, and uncovering hidden clues. Can you decrypt the final flag?
+Test your cybersecurity skills by navigating through the Challenge, avoiding traps, and uncovering hidden clues. Can you decrypt the final flag?
 
-## 🔥 Challenge Overview
-This CTF is a **fun and interactive cybersecurity challenge** that integrates gaming with cryptography. Your task is to find hidden clues, solve puzzles, and decrypt flags using **Hashing Tools and other techniques**.
+## 👨‍💻 Challenges & Categories:
+🔹 **Web Exploitation** – Test vulnerabilities in web applications.
+🔹 **Cryptography** – Crack encoded messages and encrypted data.
+🔹 **Forensics** – Analyze digital artifacts and recover data.
+🔹 **Reverse Engineering** – Decompile and understand programs.
+🔹 **OSINT** – Find hidden information using open-source intelligence.
+🔹 **Miscellaneous** – Fun and tricky cybersecurity puzzles!
 
+Infrastructure & Setup:
+🔸 **Pre-configured Machines Provided**: The organizing team will provide:
+        **Kali Linux** – Pre-installed with hacking tools for solving challenges.
+        **Ubuntu Machine** – A challenge where participants must bypass login credentials to retrieve the flag.
 
-## 🕵️ How to Participate
-1. **Start the Game**: Play the Space Shooting Game and explore its different stages.
-2. **Find the Clues**: Hidden messages are embedded in the game code and gameplay.
-3. **Decrypt the Clues**: Use techniques like **Hashing Tools** to extract the flag.
-4. **Submit Your Flag**: Once you find the final flag, submit it to the challenge host.
-5. **Make a Report**: Once you have  completed the round, submit a report.
+🔸 **Networking & Access**: Secure local/remote access to challenge machines.
+🔸 **Online Platform**:  CTFd custom platform].
+🔸 **Rules & Ethics**: Strictly ethical hacking only. Any malicious activity outside the scope of the competition will lead to disqualification.
 
-## 🛠 Tools You May Need
-- Hashing Tools: [Hash Analyzer](https://md5hashing.net/)
-- Web Inspector / Developer Tools
-
-## 🎯 Rules
-- No brute-forcing on the website.
-- Do not modify the game files.
-- Sharing answers is **not allowed**.
-- Have fun and learn something new! 🚀
-
-## 🏆 Winner Criteria
-- The first participant to submit the correct flag wins.
-- Prizes (if any) will be announced by the organizers.
-
-Good luck, and happy hacking! 🎮🔓
+## Prizes & Recognition:
+🏆 Exciting rewards for the top teams!
+📜 Certificates for all participants.
+🎯 Opportunity to learn and enhance cybersecurity skills.
 
                                                          👨‍💻 Developed by Yash Makwana(M.Tech 2nd Year)
